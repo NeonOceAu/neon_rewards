@@ -1,3 +1,4 @@
+![GitHub all releases](https://img.shields.io/github/downloads/NeonOceAu/neon_rewards/total?color=blue&style=flat-square)
 
 # Daily Rewards Script
 
